@@ -1,6 +1,6 @@
 # FTP
 
-link: http://lelinhweb.com/index.php/2016/07/13/chuong-trinh-ftp-client-tren-linux/
+link: http://lelinhweb.com/chuong-trinh-ftp-client-tren-linux/
 
 gcc -o ftp ftp.c
 
